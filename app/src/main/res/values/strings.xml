@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppConsumo</string>
+    <string name="txtView_broma">broma</string>
+    <string name="btn_mostrar_broma">MOSTRAR BROMA</string>
+</resources>
